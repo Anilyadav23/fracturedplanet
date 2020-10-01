@@ -1,4 +1,4 @@
-## Fractured Planet website
+## Fractured Planet An Amazing website
 
 ### Todo
  - add autodeploy webhook
